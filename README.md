@@ -6,4 +6,5 @@ Make recurrence maps comparing a number of time-series of events, with a focus o
 - orthography of word
 - orthography of intonation unit
 - sampled F0 trace
+- ... and many more (details to come soon)
 
